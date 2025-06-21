@@ -8,17 +8,10 @@ A comprehensive, responsive tourism website showcasing the beauty, history, cuis
 
 1. [About The Project](#about-the-project)  
 2. [Built With](#built-with)  
-3. [Features](#features)  
-4. [Demo & Screenshots](#demo--screenshots)  
-5. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-6. [Usage](#usage)  
-7. [Project Structure](#project-structure)  
-8. [Future Enhancements](#future-enhancements)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-11. [Contact](#contact)
+3. [Features](#features)    
+4. [Usage](#usage)  
+5. [Future Enhancements](#future-enhancements)  
+6. [Contact](#contact)
 
 ---
 
@@ -54,7 +47,25 @@ KashmirTourism is a multi-page, responsive tourism website built to educate visi
 - **Additional Pages**: Packages, guide info, user registration, etc.
 
 ---
+## Usage
+- Visit index.html to explore site content.
+- Book trips via the Booking Form.
+- Contact using the Contact Form.
+- Admins can log in through admin.php and manage bookings.
+- Investigate guide, package, and policy pages.
+
+---
+
+## Future Enhancements
+- Add user authentication and dynamic content stored in DB
+- Enhance admin panel (CRUD for bookings and guides)
+- Integrate Google Maps, payment gateway
+- Improve UI/UX and mobile responsiveness
+
+---
 ## Contact
 Pawanpreet Kaur
 - BCA Graduate (result awaited)
-- Email: kpawanpreet555@gmail.com
+- Email: kpawanpreet555@gmail.comProject Structure
+
+---
