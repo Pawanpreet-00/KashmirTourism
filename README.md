@@ -1,10 +1,10 @@
-# 🗻 KashmirTourism
+# KashmirTourism
 
 A comprehensive, responsive tourism website showcasing the beauty, history, cuisine, and culture of Kashmir—with booking functionality and an admin panel.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 1. [About The Project](#about-the-project)  
 2. [Built With](#built-with)  
@@ -22,13 +22,13 @@ A comprehensive, responsive tourism website showcasing the beauty, history, cuis
 
 ---
 
-## 🧭 About The Project
+## About The Project
 
 KashmirTourism is a multi-page, responsive tourism website built to educate visitors on Kashmir’s landscape, history, cuisine, and culture while enabling simple online bookings and administrative management.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: PHP  
@@ -38,7 +38,7 @@ KashmirTourism is a multi-page, responsive tourism website built to educate visi
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Home Page** (`index.html`) – Site introduction and navigation  
 - **Admin Panel** (`admin.php`, `panel.php`) – Secure login and booking overview  
